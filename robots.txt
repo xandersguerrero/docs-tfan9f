@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-t5lij0.indcuan.sbs/sitemap.xml
